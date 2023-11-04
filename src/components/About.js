@@ -16,7 +16,7 @@ export default function About() {
                 <div className='heading'>
                     <u>About</u>
                     <div className='description'>
-                        I,DevaDatta Anuragh ,Web Designer and Programmer living in Karimnagar,Telangana,India.I have a Degree in Computer Science Enbgineering from Jawaharlal Nehuru University,Hyderabd.
+                        I,Amuktha Malyada ,Web Designer and Programmer living in Karimnagar,Telangana,India.I am Pursuing my Bachelors Degree in Computer Science Enbgineering(AI & ML) from Jawaharlal Nehuru University,Hyderabd.
                         <br /><br />
                         I am a passionate front-end developer and programmer dedicated to creating intuitive and visually appealing digital experiences. With a blend of creative flair and technical expertise, I excel at turning design concepts into functional and user-friendly websites and applications.
                         <br /><br />
